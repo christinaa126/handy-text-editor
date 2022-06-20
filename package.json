@@ -11,7 +11,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "webpack": "^5.73.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
